@@ -6,5 +6,5 @@ let num2 = 80/2;
 let num3 = 40 - 1;
 // message
 const message = `You are winner :grin: and here is
-your numbers for the secure vault ":money_with_wings:${finalnum1} ${finalnum2} ${finalnum3}!"`;
+your numbers for the secure vault ":money_with_wings:${num1} ${num2} ${num3}!"`;
 alert(message);
